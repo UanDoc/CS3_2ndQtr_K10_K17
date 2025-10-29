@@ -22,7 +22,7 @@
 
 ## Favicon:
 
-![The Favicon used](/ASSETS/FAVICON.png "Our Favicon !!")
+![The Favicon used](/ASSETS/1%20-%20FAVICON.png "Our Favicon !!")
 
 ## Wireframe:
 
