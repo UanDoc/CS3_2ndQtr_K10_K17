@@ -1,2 +1,3 @@
-# TITLE: Orchard Clicker
-# Secondary-TITLE (tagline): "Not cookies, just apples"
+# TITLE: Apple Clicker
+
+Logo / Favicon:
