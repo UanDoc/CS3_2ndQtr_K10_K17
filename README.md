@@ -6,10 +6,14 @@
 
 ## Outline:
 
-> HOMEPAGE: The first page the player will see when you first boot up the site, this will display the logo of the game, credit’s and also the start button
+> HOMEPAGE: The first page the player will see when you first boot up the site, this will display the logo of the game, credit’s and also the start button.
+
 > ABOUT US: This page will contain information about the developers.
-> GAME: This page will contain the game itself
+
+> GAME: This page will contain the game itself.
+
 > GALLERY: The page that contains all the images that we used for the whole site.
+
 > CREATION: This page contains how we created the website, shows the complete timeline of creation.
 
 ## 
