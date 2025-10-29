@@ -18,11 +18,15 @@
 
 ## Uses of Javascript:
 
-> We are going to use JavaScript to calculate the total cookies the player (the user of the website) has at any given moment.
+> We are going to use JavaScript to calculate the total cookies the player (the user of the website) has at any given moment. To put it in simpler words, we are going to use JavaScript for the complex arithmetic that will be used for this site.
 
 ## Favicon:
 
 ![The Favicon used](/ASSETS/FAVICON.png "Our Favicon !!")
+
+## Wireframe:
+
+
 
 
 
