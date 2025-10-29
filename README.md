@@ -27,26 +27,19 @@
 ## Wireframe:
 
 Homepage:
-![The Homepage](/ASSETS/HOMEPAGE.png "Our Homepage !!")
+![The Homepage](/ASSETS/Homepage.png "Our Homepage !!")
 
 Socials: 
-![About us](/ASSETS/SOCIALS.png "Our Social Media !!")
+![The Socials](/ASSETS/Socials.png "Our Social !!")
 
 Game:
-![Game](/ASSETS/GAME.png "Our Game !!")
+![The Game](/ASSETS/Game.png "Our Game !!")
 
 Gallery:
-![Gallery](/ASSETS/GALLERY.png "Our Gallery !!")
+![The Gallery](/ASSETS/Gallery.png "Our Gallery !!")
 
 Credits:
-![Credits](/ASSETS/CREDITS.png "Our Credits !!")
+![The Credits](/ASSETS/Credits.png "Our Credits !!")
 
-
-
-
-
-
-
-
-
-
+Header:
+![The Header](/ASSETS/Header.png "Our Header !!")
