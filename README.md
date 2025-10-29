@@ -8,13 +8,13 @@
 
  HOMEPAGE: The first page the player will see when you first boot up the site. This page basically serves as the "index.html" of our entire site.
 
- ABOUT US: This page will contain information about the developers.
+ SOCIALS: This page will contain information about the developers.
 
  GAME: This page will contain the game itself.
 
  GALLERY: The page that contains all the images that we used for the whole site.
 
- CREATION: This page contains how we created the website, shows the complete timeline of creation.
+ CREDITS: The page that contains all the references that we used for information (and, there is a possiblity that we add random people to this list).
 
 ## Uses of Javascript:
 
@@ -25,6 +25,22 @@
 ![The Favicon used](/ASSETS/FAVICON.png "Our Favicon !!")
 
 ## Wireframe:
+
+Homepage:
+![The Homepage](/ASSETS/HOMEPAGE.png "Our Homepage !!")
+
+Socials: 
+![About us](/ASSETS/SOCIALS.png "Our Social Media !!")
+
+Game:
+![Game](/ASSETS/GAME.png "Our Game !!")
+
+Gallery:
+![Gallery](/ASSETS/GALLERY.png "Our Gallery !!")
+
+Credits:
+![Credits](/ASSETS/CREDITS.png "Our Credits !!")
+
 
 
 
