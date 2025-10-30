@@ -43,3 +43,6 @@ Credits:
 
 Header:
 ![The Header](/ASSETS/Header.png "Our Header !!")
+
+Footer:
+![The Footer](/ASSETS/Footer.png "Our Header !!")
